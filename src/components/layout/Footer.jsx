@@ -13,7 +13,7 @@ const Footer = () => {
               <FontAwesomeIcon icon={faUtensils} className="text-orange-500" size="lg" />
               <span className="font-bold text-xl">FoodFolio</span>
             </div>
-            <p className="text-gray-400 text-sm">Catering terbaik dengan cita rasa autentik Indonesia.</p>
+            <p className="text-gray-400 text-sm">Premium catering with authentic flavors you'll love.</p>
           </div>
           
           <div>

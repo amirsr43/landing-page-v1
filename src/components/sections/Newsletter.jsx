@@ -16,13 +16,13 @@ const Newsletter = () => {
             <FontAwesomeIcon icon={faGift} className="text-orange-400 text-2xl" />
           </div>
           
-          <h2 className="text-3xl font-bold">Dapatkan Diskon 20%</h2>
-          <p className="text-gray-400 mt-2">Subscribe newsletter dan dapatkan promo spesial!</p>
+          <h2 className="text-3xl font-bold">Get 20% Off Your First Order</h2>
+          <p className="text-gray-400 mt-2">Subscribe to our newsletter and unlock exclusive deals!</p>
           
           <div className="flex flex-col sm:flex-row gap-3 mt-6 max-w-md mx-auto">
             <input 
               type="email" 
-              placeholder="Email Anda" 
+              placeholder="Your email address" 
               className="bg-black/50 border border-gray-700 rounded-full px-4 py-3 flex-1 focus:outline-none focus:border-orange-500" 
             />
             <button className="bg-gradient-to-r from-orange-500 to-orange-600 px-6 py-3 rounded-full font-medium hover:shadow-lg transition flex items-center justify-center gap-2">

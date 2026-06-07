@@ -5,10 +5,10 @@ import { faCheckCircle } from '@fortawesome/free-solid-svg-icons';
 
 const About = () => {
   const highlights = [
-    "Bahan baku segar & berkualitas",
-    "Chef berpengalaman dari hotel berbintang",
-    "Higienis & terstandarisasi",
-    "Pengiriman tepat waktu"
+    "Fresh & high-quality ingredients",
+    "Experienced chefs from 5-star hotels",
+    "Hygienic & standardized preparation",
+    "On-time delivery, every time"
   ];
 
   return (
@@ -37,11 +37,11 @@ const About = () => {
           >
             <span className="text-orange-400 text-sm uppercase tracking-wider">About Us</span>
             <h2 className="text-3xl md:text-4xl font-bold mt-2 mb-4">
-              Kami Menyajikan <span className="text-orange-400">Cita Rasa Autentik</span>
+              We Serve <span className="text-orange-400">Authentic Flavors</span>
             </h2>
             <p className="text-gray-400 mb-6">
-              FoodFolio hadir sejak 2018 dengan misi membawa pengalaman kuliner terbaik untuk setiap acara Anda. 
-              Kami menggabungkan resep tradisional dengan teknik modern.
+              FoodFolio has been serving since 2018 with a mission to bring the finest culinary experience to every event.
+              We blend traditional recipes with modern techniques.
             </p>
             
             <div className="space-y-3 mb-8">
@@ -60,7 +60,7 @@ const About = () => {
             </div>
             
             <button className="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-8 py-3 rounded-full font-semibold">
-              Pelajari Lebih Lanjut
+              Learn More
             </button>
           </motion.div>
         </div>

@@ -22,7 +22,7 @@ const Gallery = () => {
           className="text-center mb-12"
         >
           <span className="text-orange-400 text-sm uppercase tracking-wider">Gallery</span>
-          <h2 className="text-3xl md:text-4xl font-bold mt-2">Galeri Kuliner Kami</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mt-2">Our Culinary Gallery</h2>
         </motion.div>
         
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">

@@ -3,22 +3,22 @@ import { faUtensils, faTruck, faCalendarAlt, faHeart } from '@fortawesome/free-s
 export const services = [
   {
     icon: faUtensils,
-    title: "Chef Profesional",
-    desc: "Dimasak oleh chef berpengalaman dengan resep terbaik"
+    title: "Professional Chefs",
+    desc: "Cooked by experienced chefs using the finest recipes"
   },
   {
     icon: faTruck,
     title: "Free Delivery",
-    desc: "Gratis ongkir untuk area Jabodetabek"
+    desc: "Free delivery for Greater Jakarta area"
   },
   {
     icon: faCalendarAlt,
     title: "Catering Event",
-    desc: "Melayani acara pernikahan, kantor, dan gathering"
+    desc: "Serving weddings, corporate events, and gatherings"
   },
   {
     icon: faHeart,
     title: "Halal Certified",
-    desc: "100% halal dan bahan berkualitas"
+    desc: "100% halal certified with premium quality ingredients"
   }
 ];

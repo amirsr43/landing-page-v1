@@ -5,7 +5,7 @@ export const dishes = [
     category: "Main Course",
     price: "Rp 35.000",
     image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600",
-    description: "Nasi goreng dengan topping ayam, udang, dan telur mata sapi"
+    description: "Fried rice topped with chicken, shrimp, and a sunny-side up egg"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const dishes = [
     category: "Grill",
     price: "Rp 40.000",
     image: "https://images.unsplash.com/photo-1534790566855-4cb788d389b8?w=600",
-    description: "10 tusuk sate ayam dengan bumbu kacang spesial"
+    description: "10 skewers of chicken satay with our special peanut sauce"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const dishes = [
     category: "Vegetarian",
     price: "Rp 28.000",
     image: "https://images.unsplash.com/photo-1631452180519-c96fe83eabae?w=600",
-    description: "Sayuran segar dengan saus kacang dan kerupuk"
+    description: "Fresh vegetables with peanut sauce and crispy crackers"
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const dishes = [
     category: "Soup",
     price: "Rp 38.000",
     image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600",
-    description: "Sup daging sapi dengan kuah hitam khas Surabaya"
+    description: "Beef soup with the iconic dark broth from Surabaya"
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const dishes = [
     category: "Dessert",
     price: "Rp 22.000",
     image: "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=600",
-    description: "Es campur dengan jelly, alpukat, dan sirup merah"
+    description: "Mixed shaved ice with jelly, avocado, and red syrup"
   },
   {
     id: 6,
@@ -45,8 +45,8 @@ export const dishes = [
     category: "Grill",
     price: "Rp 45.000",
     image: "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=600",
-    description: "Ayam bakar dengan sambal terasi dan lalapan"
+    description: "Grilled chicken with shrimp paste sambal and fresh vegetables"
   }
 ];
 
-export const categories = ["Semua", "Main Course", "Grill", "Vegetarian", "Soup", "Dessert"];
+export const categories = ["All", "Main Course", "Grill", "Vegetarian", "Soup", "Dessert"];

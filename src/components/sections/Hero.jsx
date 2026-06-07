@@ -33,14 +33,14 @@ const Hero = () => {
             
             <h1 className="text-5xl md:text-7xl font-bold leading-tight">
               <span className="bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
-                Lezat & Bergizi
+                Delicious & Nutritious
               </span>
               <br />
-              Untuk Setiap Momen
+              For Every Occasion
             </h1>
             
             <p className="text-xl text-gray-300 mt-6 max-w-lg">
-              Nikmati hidangan berkualitas dengan cita rasa autentik, dibuat oleh chef profesional untuk acara spesial Anda.
+              Enjoy quality dishes with authentic flavors, crafted by professional chefs for your special occasions.
             </p>
             
             <div className="flex flex-wrap gap-4 mt-8">
@@ -49,7 +49,7 @@ const Hero = () => {
                 whileTap={{ scale: 0.95 }}
                 className="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-8 py-3 rounded-full font-semibold flex items-center gap-2 shadow-lg"
               >
-                Lihat Menu <FontAwesomeIcon icon={faChevronRight} />
+                View Menu <FontAwesomeIcon icon={faChevronRight} />
               </motion.button>
               
               <motion.button

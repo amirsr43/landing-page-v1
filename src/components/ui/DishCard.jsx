@@ -41,7 +41,7 @@ const DishCard = ({ dish, index }) => {
             whileTap={{ scale: 0.95 }}
             className="bg-orange-500/20 border border-orange-500 text-orange-400 px-4 py-2 rounded-full text-sm font-semibold flex items-center gap-2 hover:bg-orange-500 hover:text-white transition"
           >
-            <FontAwesomeIcon icon={faShoppingCart} /> Pesan
+            <FontAwesomeIcon icon={faShoppingCart} /> Order
           </motion.button>
         </div>
       </div>

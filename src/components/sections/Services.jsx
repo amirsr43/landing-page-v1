@@ -13,9 +13,9 @@ const Services = () => {
           className="text-center mb-12"
         >
           <span className="text-orange-400 text-sm uppercase tracking-wider">Our Services</span>
-          <h2 className="text-3xl md:text-4xl font-bold mt-2">Layanan Terbaik Untuk Anda</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mt-2">The Best Services For You</h2>
           <p className="text-gray-400 mt-4 max-w-2xl mx-auto">
-            Kami memberikan pelayanan terbaik untuk memastikan kepuasan Anda
+            We deliver top-tier service to ensure your complete satisfaction
           </p>
         </motion.div>
         

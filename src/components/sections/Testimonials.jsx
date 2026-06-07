@@ -24,7 +24,7 @@ const Testimonials = () => {
           className="text-center mb-12"
         >
           <span className="text-orange-400 text-sm uppercase tracking-wider">Testimonials</span>
-          <h2 className="text-3xl md:text-4xl font-bold mt-2">Apa Kata Mereka?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mt-2">What Our Clients Say</h2>
         </motion.div>
         
         <div className="relative bg-gradient-to-br from-gray-900/50 to-black/50 border border-orange-500/20 rounded-2xl p-8 md:p-12">
