@@ -52,7 +52,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-orange-500/20 mt-8 pt-8 text-center text-gray-500 text-sm">
-          FoodFolio. All rights reserved.
+          © ReactAja. All rights reserved.
         </div>
       </div>
     </footer>

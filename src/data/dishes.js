@@ -12,7 +12,7 @@ export const dishes = [
     name: "Sate Ayam Madura",
     category: "Grill",
     price: "Rp 40.000",
-    image: "https://images.unsplash.com/photo-1534790566855-4cb788d389b8?w=600",
+    image: "https://images.unsplash.com/photo-1645696301019-35adcc18fc21?q=80&w=1029&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     description: "10 skewers of chicken satay with our special peanut sauce"
   },
   {
@@ -20,7 +20,7 @@ export const dishes = [
     name: "Gado-Gado",
     category: "Vegetarian",
     price: "Rp 28.000",
-    image: "https://images.unsplash.com/photo-1631452180519-c96fe83eabae?w=600",
+    image: "https://upload.wikimedia.org/wikipedia/commons/2/26/Gado_gado_jakarta.jpg",
     description: "Fresh vegetables with peanut sauce and crispy crackers"
   },
   {
@@ -28,7 +28,7 @@ export const dishes = [
     name: "Rawon Surabaya",
     category: "Soup",
     price: "Rp 38.000",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600",
+    image: "https://i.pinimg.com/1200x/90/c5/e0/90c5e0e1d0b519899e45f8fe1fc2e767.jpg",
     description: "Beef soup with the iconic dark broth from Surabaya"
   },
   {

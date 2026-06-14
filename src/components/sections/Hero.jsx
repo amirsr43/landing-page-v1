@@ -85,7 +85,7 @@ const Hero = () => {
           >
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=600" 
+                src="https://i.pinimg.com/736x/d3/7b/f1/d37bf17c96e03b533f0f4b1c9b130011.jpg" 
                 alt="Food"
                 className="rounded-2xl shadow-2xl border border-orange-500/30"
               />
