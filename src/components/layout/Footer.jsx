@@ -51,8 +51,9 @@ const Footer = () => {
           </div>
         </div>
         
-        <div className="border-t border-orange-500/20 mt-8 pt-8 text-center text-gray-500 text-sm">
-          © ReactAja. All rights reserved.
+        <div className="border-t border-orange-500/20 mt-8 pt-8 flex flex-col items-center gap-3 text-center text-gray-500 text-sm">
+          <img src="/logo.png" alt="Logo" className="h-10 w-auto object-contain" />
+          <div>© ReactAja. All rights reserved.</div>
         </div>
       </div>
     </footer>
